@@ -15,4 +15,5 @@
 ## javascript基础
 1. [模拟call,bind以及new的实现](https://github.com/coolpail/blog/issues/7)
 2. [一道有意思并对你有帮助的Promise题](https://github.com/coolpail/blog/issues/12)
+3. [一道常见的面试题](https://github.com/coolpail/blog/issues/13)
 ## css
