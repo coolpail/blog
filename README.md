@@ -11,6 +11,7 @@
 1. [react学习基本概念总结](https://github.com/coolpail/blog/issues/4)
 2. [React学习摘记二 ](https://github.com/coolpail/blog/issues/3)
 3. [第一天学习React笔记心得](https://github.com/coolpail/blog/issues/2)
+4. [react摘记三](https://github.com/coolpail/blog/issues/15)
 ## node
 ## javascript基础
 1. [模拟call,bind以及new的实现](https://github.com/coolpail/blog/issues/7)
