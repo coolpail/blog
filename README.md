@@ -21,3 +21,5 @@
 4. [promise的串行与并行](https://github.com/coolpail/blog/issues/14)
 5. [判断浏览器是否支持Passive](https://github.com/coolpail/blog/issues/17)
 ## css
+## 数据类型与算法
+1. [e](https://github.com/coolpail/blog/issues/18)
