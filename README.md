@@ -22,4 +22,6 @@
 5. [判断浏览器是否支持Passive](https://github.com/coolpail/blog/issues/17)
 ## css
 ## 数据类型与算法
-1. [e](https://github.com/coolpail/blog/issues/18)
+1. [用栈来解决类似括号的闭合问题](https://github.com/coolpail/blog/issues/18)
+## 每日一记
+1. [每日零星的收获](https://github.com/coolpail/blog/issues/19)
