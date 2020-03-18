@@ -20,7 +20,7 @@
 3. [一道常见的面试题](https://github.com/coolpail/blog/issues/13)
 4. [promise的串行与并行](https://github.com/coolpail/blog/issues/14)
 5. [判断浏览器是否支持Passive](https://github.com/coolpail/blog/issues/17)
-## typescrip学习
+## typescript学习
 1. [TS 基础类型](https://github.com/coolpail/blog/issues/20)
 ## css
 ## 数据类型与算法
