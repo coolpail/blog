@@ -20,6 +20,7 @@
 3. [一道常见的面试题](https://github.com/coolpail/blog/issues/13)
 4. [promise的串行与并行](https://github.com/coolpail/blog/issues/14)
 5. [判断浏览器是否支持Passive](https://github.com/coolpail/blog/issues/17)
+6. [利用generator模拟async-await](https://github.com/coolpail/blog/issues/25)
 ## typescript学习
 1. [TS 基础类型](https://github.com/coolpail/blog/issues/20)
 ## css
