@@ -25,6 +25,7 @@
 )
 ## typescript学习
 1. [TS 基础类型](https://github.com/coolpail/blog/issues/20)
+2. [TS一些工具泛型的手动实现](https://github.com/coolpail/blog/issues/32)
 ## css
 ## 数据类型与算法
 1. [用栈来解决类似括号的闭合问题](https://github.com/coolpail/blog/issues/18)
